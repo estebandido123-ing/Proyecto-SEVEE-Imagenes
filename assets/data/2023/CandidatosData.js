@@ -27,7 +27,7 @@ const img = (path) => {
 export const dessertsData = [
   {
     porcentaje: "Nivel Bajo",
-    p1: "#bdd7e7",
+    p1: "#a4e0ee",
     p2: "#D8B4FE",
     p3: "#cbaada",
     p4: "#fcdabc",
@@ -37,7 +37,7 @@ export const dessertsData = [
   },
   {
     porcentaje: "Nivel Medio",
-    p1: "#6baed6",
+    p1: "#45b5ce",
     p2: "#A855F7",
     p3: "#A569BD",
     p4: "#f8c89c",
@@ -47,7 +47,7 @@ export const dessertsData = [
   },
   {
     porcentaje: "Nivel Alto",
-    p1: "#08519c",
+    p1: "#12a2c2",
     p2: "#8A2BE2",
     p3: "#7D3C98",
     p4: "#e69237",
@@ -65,8 +65,8 @@ export const candidatoData = [
   {
     partido: 1,
     nombre: "LUISA GONZALEZ",
-    url: img("imagenes_presidentes/candidato_001.png"), // Placeholder
-    logo: img("logos_partidos_politicos/ALIANZA PAIS.png"), // O Revolución Ciudadana
+    url: img("imagenes_presidentes/2023/LUISA_GONZALEZ_2023.png"), // Placeholder
+    logo: img("logos_partidos_politicos/2023/RC_2023.png"), // O Revolución Ciudadana
     color: "#12a2c2", // Celeste RC
     nombrePartido: "RC",
     json: "RC",
